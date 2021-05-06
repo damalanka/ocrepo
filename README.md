@@ -26,5 +26,6 @@ OpenShift 3 - manually following reference guides (yes, you need to install it u
 
 OpenShift 4 - has a simplified and easier to use installer that currently supports AWS and vSphere. It is performed by a dedicated Operator software and the whole configuration is kept in ConfigMaps inside a cluster (not in files on master servers like in version 3). Bare metal installations are still possible but currently they require many manual steps. Also it requires internet connections so disconnected installations are unavailable.
 
+![OCP4](https://user-images.githubusercontent.com/43290241/117361989-5b212580-aed8-11eb-8dc8-8fd428c817b1.PNG)
 
 
