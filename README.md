@@ -28,4 +28,6 @@ OpenShift 4 - has a simplified and easier to use installer that currently suppor
 
 ![OCP4](https://user-images.githubusercontent.com/43290241/117361989-5b212580-aed8-11eb-8dc8-8fd428c817b1.PNG)
 
+![OCP3and4](https://user-images.githubusercontent.com/43290241/117362990-94a66080-aed9-11eb-8388-d100b9473390.PNG)
+
 
