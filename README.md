@@ -6,4 +6,4 @@ Thanks one and all for all your spport.
 
 Below is the Openshift Architecture.
 
-![](https://github.com/damalanka/ocrepo/issues/2#issue-877859011)
+![](Issues/Images)
